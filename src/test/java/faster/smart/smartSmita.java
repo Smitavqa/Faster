@@ -4,7 +4,11 @@ public class smartSmita {
 
 	public static void main(String[] args) {
 		System.out.println("Smart smita here");
+
 		System.out.println("Oh I see");
+
+
+		System.out.println("I M remote");
 
 
 	}
